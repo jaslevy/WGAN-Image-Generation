@@ -29,7 +29,7 @@ For loading weights and generating images with one of the GANs, use the code bel
     
 <img width="819" alt="Screenshot 2024-10-16 at 12 22 30 AM" src="https://github.com/user-attachments/assets/e9c3e447-029b-4396-b6b1-9a8836936a49">
 
-<img width="385" alt="Screenshot 2024-10-16 at 12 22 47 AM" src="https://github.com/user-attachments/assets/8b493507-c09e-46db-854e-ac91b991326d">
+![5f6737b3-b1fd-4b6f-989b-fb8cffb10044](https://github.com/user-attachments/assets/e4e50a39-d9db-4249-b959-9295c31dc1f6)
 
 # Architectures
 
