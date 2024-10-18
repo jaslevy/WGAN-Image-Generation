@@ -1,8 +1,10 @@
 # WGAN-Image-Generation
 Applying DCGAN, WGAN (with weight clipping), and WGAN-GP (with gradient penalty) to FashionMNIST
 
+
 # Overview
-A reimplementation of two distinct Generative Adversarial Network (GAN) architectures using various techniques described in **"Improved Training of Wasserstein GANs", by Gulrajani et al. (2017)**. We add to this paper by testing two architectures with three techniques each (DCGAN, WGAN (weight clipping), and WGAN (gradient penalty)). I work with the FashionMNIST dataset to generate images with generator networks after training is complete.
+A reimplementation of two distinct Generative Adversarial Network (GAN) architectures using various techniques described in **"Improved Training of Wasserstein GANs", by Gulrajani et al. (2017)**  ([https://arxiv.org/abs/1704.00028](https://arxiv.org/abs/1704.00028))
+. I add to this paper by testing two architectures with three techniques each (DCGAN, WGAN (weight clipping), and WGAN (gradient penalty)). I work with the FashionMNIST dataset to generate images with generator networks after training is complete.
 
 This project includes a Jupyter Notebook file which creates a training regime for evaluating different models and techniques applied to GANs that generate images based on the FashionMNIST dataset. Specifically, I chose 2 architectures and trained a Deep-Convolutional GAN (DCGAN), a Wasserstein GAN with weight clipping, and a Wasserstein GAN with gradient penalty applied. 
 
